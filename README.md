@@ -7,9 +7,9 @@ A timer write by C and used in console.
 after you execute it successfully,the Timer will execute the command every day.
 ### 2.compiler
 we use cmake to generate the makefile,so you need 'make' and 'cmake' to compiler it.
-'''shell/bash
+~~~shell/bash
 cmake CMakeList.txt
-'''
+~~~
 ### 3.how to get it,I have compiler it in linux and windows but not macos
 Windows x64:comming soon.
 Linux x64:comming soon.

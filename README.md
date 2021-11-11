@@ -12,5 +12,6 @@ cmake CMakeLists.txt;
 make;
 ~~~
 ### 3.how to get it,I have compiler it in linux and windows but not macos
-Windows x64:(https://github.com/sketchdee/CTimer/blob/main/CTimer)
-Linux x64:comming soon.
+Windows x64:[CTimer.exe](https://github.com/sketchdee/CTimer/blob/main/CTimer)
+
+Linux x64:[CTimer](https://github.com/sketchdee/CTimer/blob/main/CTimer.exe)

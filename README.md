@@ -12,5 +12,5 @@ cmake CMakeLists.txt;
 make;
 ~~~
 ### 3.download the compiled program
-Windows x64:[CTimer.exe](https://github.com/sketchdee/CTimer/blob/main/CTimer)  
-Linux x64:[CTimer](https://github.com/sketchdee/CTimer/blob/main/CTimer.exe)  
+Windows x64:  [CTimer.exe](https://github.com/sketchdee/CTimer/blob/main/CTimer)  
+Linux x64:  [CTimer](https://github.com/sketchdee/CTimer/blob/main/CTimer.exe)  

@@ -8,9 +8,9 @@ after you execute it successfully,the Timer will execute the command every day.
 ### 2.compiler
 we use cmake to generate the makefile,so you need 'make' and 'cmake' to compiler it.
 ~~~shell/bash
-cmake CMakeList.txt;
+cmake CMakeLists.txt;
 make;
 ~~~
 ### 3.how to get it,I have compiler it in linux and windows but not macos
-Windows x64:comming soon.
+Windows x64:(https://github.com/sketchdee/CTimer/blob/main/CTimer)
 Linux x64:comming soon.

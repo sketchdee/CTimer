@@ -2,7 +2,7 @@
 A timer write by C. Used for scheduled execution,such as State examination.
 ## How to use
 ### 1.run this cmd in console with --cmd [...] --times [...]
---dir will push the command to the Timer;  
+--cmd will push the command to the Timer;  
 --times will push the time points of the command execution to the Timer;  
 After you execute it successfully,the Timer will do it every day,also will occupy a terminal window.
 ### 2.compiler
